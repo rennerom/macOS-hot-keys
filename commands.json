@@ -3,7 +3,7 @@
     "rules":
     [
         {
-        "description": "Launch apps by right shift+letters AM only.",
+        "description": "Launch apps by left ctrl-alt-command + some hotkey.",
         "manipulators":
             [
                 {
