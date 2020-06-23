@@ -7,4 +7,4 @@ Shell command line should use the following syntax.
 
 ```
 "shell_command": "open -a 'APP.app"
-'''
+```
